@@ -28,27 +28,6 @@ public class PersonService {
 		
 		p = new Person();
 		p.setId("3");
-		p.setAge(25);
-		p.setFirstName("mo");
-		p.setLastName("ya");
-		persons.add(p);
-		
-		p = new Person();
-		p.setId("4");
-		p.setAge(36);
-		p.setFirstName("mohamed");
-		p.setLastName("shalaby");
-		persons.add(p);
-		
-		p = new Person();
-		p.setId("5");
-		p.setAge(36);
-		p.setFirstName("testing");
-		p.setLastName("webhooks");
-		persons.add(p);
-		
-		p = new Person();
-		p.setId("6");
 		p.setAge(23);
 		p.setFirstName("ttt");
 		p.setLastName("kkk");
